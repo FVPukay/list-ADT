@@ -4,7 +4,6 @@
 |------------------------|--------------------------------------------------|
 | listSize               | Number of elements in list                       |
 | pos                    | Current position in list                         |
-| length                 | Returns the number of elements in list           |
 
 | function               | explanation                                      |
 |------------------------|--------------------------------------------------|
